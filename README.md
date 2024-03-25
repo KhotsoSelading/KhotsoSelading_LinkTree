@@ -118,7 +118,7 @@ Some competitors may face scalability challenges or performance issues during pe
 
 Phase 1: Front-end Development
 Phase 2: Back-end Development
-Phase 3: Debugging
+Phase 3: Testing and Debugging
 Phase 4: Deployment
 Phase 5: Analytics
 Phase 6: Updating/ Upgrading
@@ -141,7 +141,7 @@ For detailed information on using LinkTree, refer to the documentation available
 
 ### License:
 
-"Linktree: Tree of life" is licensed under the MIT License.
+"Linktree: Tree of life" is licensed under the MIT License. [[License] https://github.com/KhotsoSelading/KhotsoSelading_LinkTree/tree/main?tab=MIT-1-ov-file]
 
 ### Contact Information:
 
