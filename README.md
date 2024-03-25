@@ -138,7 +138,7 @@ Each platform on my link tree has it's respective booking feature.
 [Provide instructions for getting started with the project, including installation, setup, and any prerequisites.]
 
 ### Documentation:
-For detailed information on using TravelBuddy, refer to the documentation available on our website: [[Link to Documentation](https://github.com/KhotsoSelading/KhotsoSelading_LinkTree/blob/main/README.md)].
+For detailed information on using LinkTree, refer to the documentation available on our website: [[LinkTree Documentation](https://github.com/KhotsoSelading/KhotsoSelading_LinkTree/blob/main/README.md)].
 
 ### License:
 
