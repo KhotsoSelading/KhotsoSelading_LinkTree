@@ -141,7 +141,7 @@ For detailed information on using LinkTree, refer to the documentation available
 
 ### License:
 
-"Linktree: Tree of life" is licensed under the MIT License. [[License] (https://github.com/KhotsoSelading/KhotsoSelading_LinkTree/tree/main?tab=MIT-1-ov-file)]
+"Linktree: Tree of life" is licensed under the MIT License. [License] (https://github.com/KhotsoSelading/KhotsoSelading_LinkTree/tree/main?tab=MIT-1-ov-file)
 
 ### Contact Information:
 
