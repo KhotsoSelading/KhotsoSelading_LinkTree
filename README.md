@@ -1,5 +1,5 @@
 # ALX Webstack - Portfolio Project
-Khotso Selading ALX Webstack - Portfolio Project Repository
+Khotso Selading ALX Webstack - Portfolio Project Repo
 
 ## Project Title: Khotso Selading's Linktree - The tree of Khotso's life
 
