@@ -1,7 +1,7 @@
 import fetch from "node-fetch";
 
 export default async function handler(req, res) {
-  const MAILCHIMP_API_KEY = process.env.MAILCHIMP_API_KEY;
+  const MAILCHIMP_API_KEY = "75fd9a07129e29de06a1668053c5b906-us22";
   const DC = "us22";
   const AUDIENCE_ID = "7f095362bc";
   const baseUrl = `https://${DC}.api.mailchimp.com/3.0`;
