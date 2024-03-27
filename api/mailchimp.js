@@ -2,8 +2,8 @@ import fetch from "node-fetch";
 
 export default async function handler(req, res) {
   const MAILCHIMP_API_KEY = process.env.MAILCHIMP_API_KEY;
-  const DC = "us18";
-  const AUDIENCE_ID = "9edcd26ae7";
+  const DC = "us22";
+  const AUDIENCE_ID = "7f095362bc";
   const baseUrl = `https://${DC}.api.mailchimp.com/3.0`;
   console.log("hello from cloud function");
 
