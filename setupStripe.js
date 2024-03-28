@@ -30,7 +30,7 @@ export function setupStripe() {
         .then((res) => res.json())
         .then((data) => {
           const stripe = Stripe(
-            "pk_test_51LCPFoIqey7J2iTMMZzFjfKYxQBMOL7OsAnSXtfCdDCTi7z0t8KNPAqjARKXijx8A9qu7x13OOVNcOFoqtLtFhTg003e5inJkS"
+            "pk_test_51OyzuEL5ngvCNH8QYWNDbrLfzGWGoQbaG4yy7Hj52eSrwrNVPtkOcRLfwAvuAwAy7Sgr0JaVvBvJ9pKefZXcOS3M00iMkmMqfq"
           );
           stripe.redirectToCheckout(data);
         })
