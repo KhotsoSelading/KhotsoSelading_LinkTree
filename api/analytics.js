@@ -1,7 +1,7 @@
 import { createClient } from "@supabase/supabase-js";
 import crypto from "crypto";
 
-const supabaseUrl = "https://syibnjqmnzakjlicoahz.supabase.co";
+const supabaseUrl = "https://jssroavpxizpuutkzsft.supabase.co";
 const supabaseKey = process.env.SUPABASE_KEY;
 const supabase = createClient(supabaseUrl, supabaseKey);
 
