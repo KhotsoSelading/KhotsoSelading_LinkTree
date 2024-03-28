@@ -10,7 +10,7 @@
   "author": "Khotso Selading",
   "license": "MIT",
   "dependencies": {
-    "@supabase/supabase-js": "^1.35.3",
-    "stripe": "^9.9.0"
+    "@supabase/supabase-js": "^1.35.7",
+    "stripe": "^9.16.0"
   }
 }
